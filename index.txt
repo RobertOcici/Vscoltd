@@ -1,0 +1,32 @@
+
+<html>
+<head><title>HOME </title>
+<style type="text/css">
+p{color:green;
+}
+</style>
+</head>
+<body bgcolor="cream">
+<p><a href="index.html"></a> <a href="index.html"></a><a href="index2.html">ABOUT US</a>
+<a href="index.html"></a><a href="index3.html">PRODCUTS & SERVICES</a>    <a href="galary.jpg">COLLECTIONS </a> <a href="index.html"></a>     <a href="index4.html">OUR PARTNERS</a>
+<a href="index.html"></a><a href="index5.html">MANAGEMENT TEAM</a>  <a href="index.html"></a><a href="index6.html">CONTACT US</a>
+<a href="index.html"></a><a href="index9.html">NEWS  </a>
+<center>
+<img src="log.jpg"  width="250" height="100"></center>
+<p><b><h2 style="color:blue;">COMPANY OVERVIEW </b></h2> </P>
+Visual Supply Company Limited is a clothing store that sales pants, shirts, T-shirts, dresses, tops, skirts, coats, and jackets, 
+as well as handbags, shoes, jewelries, beauty products, gifts,<br> and accessories, etc
+We want all our customers to feel as if they are getting one of a kind pieces that no one else has.
+<h5 style="color:blue;">Quick Links</h5><a href="index.html"></a> <a href="index7.html"> <br>What We do</a>  <center><img src="0.jpg"  width="300" height="230"><img src="01.jpg"  width="300" height="230"><video width="400" height="230" controls>
+  <source src="clip.mp4" type="video/mp4">
+</video>
+<center>   
+ <a href="index.html"></a> <a href="index10.html">#Social Media Pages</a></P>   </center>  <a href="index.html"></a> <a href="index8.html">Up coming event </a>  <br>        
+   <a href="index.html"></a> <a href="Jobs.html">Jobs</a><br>
+<center >Copyright@2016 </center> 
+
+</body>
+</html>
+
+
+
